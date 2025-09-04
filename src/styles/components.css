@@ -1,0 +1,3 @@
+.sr-only{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+@media (max-width: 720px){ .dialog-content{grid-template-columns:1fr} }
+.favorites-meta{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:10px 0;flex-wrap:wrap}
